@@ -1,2 +1,4 @@
 github.com/bkohler93/aoc-helper v0.0.0-20241127172638-3c6b3d894dbc h1:XpMVrYRzaCH84vtFaB6wsNDXwl8rtjYQ9fzg9N/izqs=
 github.com/bkohler93/aoc-helper v0.0.0-20241127172638-3c6b3d894dbc/go.mod h1:y6oVrXntLAxV2j3CPVQ3PnoK5EWLl5mYIHv6tohIiYM=
+github.com/bkohler93/aoc-helper v1.0.0 h1:aYMkw/4GyF1A3Xjyvf7HZ+l3aKLj2/624Wp3tRC8Onw=
+github.com/bkohler93/aoc-helper v1.0.0/go.mod h1:y6oVrXntLAxV2j3CPVQ3PnoK5EWLl5mYIHv6tohIiYM=

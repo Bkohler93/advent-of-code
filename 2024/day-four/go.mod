@@ -1,4 +1,4 @@
-module github.com/bkohler/aoc-2024-day-one
+module github.com/aoc-2024-day-4
 
 go 1.23.3
 
